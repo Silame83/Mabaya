@@ -1,4 +1,4 @@
-          Requirements
+   REQUIREMENTS
 Access to AWS via AWS CLI (aws_access_key_id and aws_secret_access_key)
 Knowing AMI id of AWS image for build the instance
 How to know:
@@ -21,7 +21,7 @@ find Ubuntu image and copy to buffer
      <img src="https://github.com/Silame83/Mabaya/blob/master/tf_applying%20.png">
 
 
-               Checking
+      CHECKING
     In AWS account, where deploying was done, enter to EC2 service, choice neccessary instance and click on Connect button(on the top right)
     <img src="https://github.com/Silame83/Mabaya/blob/master/Connect_btn.png">
     
@@ -39,7 +39,7 @@ find Ubuntu image and copy to buffer
                     SELECT * FROM mabaya.requests; <br>
     
     
-          Explanations
+      EXPLANATIONS
      
      In EC2 service exist public IP of instance, open browser, enter <this public IP>:8008 (work port of application) and write something as GET request, all content writes to MySQL Database
 
