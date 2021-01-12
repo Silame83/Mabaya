@@ -31,12 +31,12 @@
     and you into instance
     <img src="https://github.com/Silame83/Mabaya/blob/master/into_instance.png">
     
-    next step, commands:
-                    mysql -u ubuntu -p
-          in prompt Password
-                    Silame83@gmail.com
-          and into MySQL
-                    SELECT * FROM mabaya.requests;
+    next step, commands:<br>
+                    mysql -u ubuntu -p <br>
+          in prompt Password: <br>
+                    Silame83@gmail.com <br>
+          and into MySQL <br>
+                    SELECT * FROM mabaya.requests; <br>
     
     
           Explanations
