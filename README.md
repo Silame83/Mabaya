@@ -10,7 +10,7 @@
      
 
 1. Download terraform https://www.terraform.io/downloads.html;
-2. Move terraform to derictory of binary files: mv ~/Downloads/terraform /usr/local/bin/ ;
+2. Move terraform to directory of binary files: mv ~/Downloads/terraform /usr/local/bin/ ;
 3. Clone GitHub repository to working directory: git clone https://github.com/Silame83/Mabaya.git
 4. Into file <a href="https://github.com/Silame83/Mabaya/blob/master/aws_vpc.tf">aws_vpc.tf</a> change parameter "profile" to the current one that you have and the region, that you need;<br>
      <img src="https://github.com/Silame83/Mabaya/blob/master/profile_in_tf.png">
@@ -22,13 +22,13 @@
 
 
                Checking
-    In AWS account, where depploying was done, enter to EC2 service, choice neccessary instance and click on Connect button(on the top right)
+    In AWS account, where deploying was done, enter to EC2 service, choice neccessary instance and click on Connect button(on the top right)
     <img src="https://github.com/Silame83/Mabaya/blob/master/Connect_btn.png">
     
     then, Connect
     <img src="https://github.com/Silame83/Mabaya/blob/master/connect_to_instance.png">
     
-    and you into instance
+    and you are into instance
     <img src="https://github.com/Silame83/Mabaya/blob/master/into_instance.png">
     
     next step, commands:<br>
