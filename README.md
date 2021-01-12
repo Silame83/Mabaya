@@ -1,6 +1,7 @@
-This project contents:
-
- - echo service app (ESA);
- - configuration files (Terraform) which builds server with userdata, include ESA with saving to MySQL database;
-
-The configuration launch via Terraform technology
+1. Download terraform https://www.terraform.io/downloads.html
+2. Move terraform to binary derictory mmv ~/Downloads/terraform /usr/local/bin/
+3. Clone GitHub repository to working directory
+4. Into file aws_vpc.tf change the profile to the current one that you have
+     profile in tf.png
+4. Into workdir initialize terraform by command: terraform init
+5. Command terraform apply with applying command "Yes" deplying infrastructure
