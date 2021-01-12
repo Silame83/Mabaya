@@ -1,8 +1,8 @@
    REQUIREMENTS <br>
    
-Access to AWS via AWS CLI (aws_access_key_id and aws_secret_access_key)
-Knowing AMI id of AWS image for build the instance
-How to know:
+Access to AWS via AWS CLI (aws_access_key_id and aws_secret_access_key)<br>
+Knowing AMI id of AWS image for build the instance<br>
+How to know:<br>
 On EC2 Dashboard click on Launch instance button
 <img src="https://github.com/Silame83/Mabaya/blob/master/launch_instance.png">
 
